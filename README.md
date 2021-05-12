@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**MulqiGaming64/MulqiGaming64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MulqiGaming64
+Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
+<br>
+## 🚶 Visit Me
+[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/MulqiGaming64">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulqiGaming64&layout=compact&hide_border=true" />
+</a>
+<a href="https://github.com/MulqiGaming64">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MulqiGaming64&count_private=true&show_icons=true&hide_border=false&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
+</a>
