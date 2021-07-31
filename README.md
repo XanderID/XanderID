@@ -8,5 +8,5 @@ Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulqiGaming64&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/MulqiGaming64">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MulqiGaming64&count_private=true&show_icons=true&hide_border=false&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MulqiGaming64&count_private=true&show_icons=true&hide_border=false&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="MulqiGaming64 GitHub Stats" />
 </a>
