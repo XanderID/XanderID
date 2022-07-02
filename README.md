@@ -2,6 +2,12 @@
 # MulqiGaming64
 Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
 <br>
+<h3>Just a Human</h3>
+
+- 🔭 I’m currently working on **PocketMine Plugins**
+
+- 📫 How to reach me **help@qidev.id**
+
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
 ## &#x1f4c8; GitHub Stats
