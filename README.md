@@ -1,4 +1,4 @@
-![PROFILE VIEWERS](https://gpvc.arturio.dev/MulqiGaming64)
+![PROFILE VIEWERS](https://profile-counter.glitch.me/MulqiGaming64/count.svg)
 # MulqiGaming64
 Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
 <br>
