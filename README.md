@@ -1,12 +1,28 @@
-![PROFILE VIEWERS](https://profile-counter.glitch.me/MulqiGaming64/count.svg)
-# MulqiGaming64
-Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
+# Hi, I'm MulqiGaming64 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Assalamualaikum+Warahmatullah+..%E2%9D%A4%EF%B8%8F;A+FullStack+Developer+%3C3;High+School+Student;Active+Research+and+Learner;Love+to+Learning+a+New+Stuff+%3A)"></a>
+</p>
 <br>
-<h3>Just a Human</h3>
+<div align="center">
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/MulqiGaming64?label=Follow Me!&style=social" alt="MulqiGaming64" /> 
+</p>
 
-- 🔭 I’m currently working on **PocketMine Plugins**
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg">
+  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+  <br>
+</p>
+</div>
 
-- 📫 How to reach me **help@qidev.id**
+# Visitors Count
+<img src="https://profile-counter.glitch.me/MulqiGaming64/count.svg">
+
+# About Me
+Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=20 />, I'm Muhamad Mulqi, I am a student at Sukabumi State High School.
+<br>
 
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
