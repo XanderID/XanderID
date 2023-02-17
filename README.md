@@ -1,6 +1,6 @@
 # Hi, I'm MulqiGaming64 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Assalamualaikum+Warahmatullah+..%E2%9D%A4%EF%B8%8F;A+FullStack+Developer+%3C3;High+School+Student;Active+Research+and+Learner;Love+to+Learning+a+New+Stuff+%3A)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&center=true&vCenter=true&lines=Assalamualaikum+Warahmatullah+..%E2%9D%A4%EF%B8%8F;A+FullStack+Developer+%3C3;High+School+Student;Active+Research+and+Learner;Love+to+Learning+a+New+Stuff+%3A)"></a>
 </p>
 <br>
 <div align="center">
