@@ -1,12 +1,7 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/55838823?v=4" width="256" height="256">
-</p>
-
 # Hi, I'm XanderID 👋
 
 ## About Me
-Hello! I'm **Muhamad Mulqi** (also known as **XanderID**), a passionate software developer and student from Indonesia currently attending Sukabumi State High School. I enjoy exploring open-source projects. I'm always eager to learn new technologies and share my knowledge with the community.
+Hello! I'm **Muhamad Mulqi A.A.R** (also known as **XanderID**) a passionate software developer. I enjoy exploring open-source projects, I'm always eager to learn new technologies and share my knowledge with the community.
 
 ## 🚀 Skills & Technologies
 
@@ -59,6 +54,12 @@ Hello! I'm **Muhamad Mulqi** (also known as **XanderID**), a passionate software
   </a>
   <a href="https://x.com/xanderdevid" target="_blank">
     <img src="https://img.shields.io/badge/X-xanderdevid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhamad-mulqi-adiyat-abdilah-ruswandi/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Muhamad%20Mulqi%20A.A.R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+    />
   </a>
 </div>
 
