@@ -27,10 +27,10 @@ Hello! I'm **Muhamad Mulqi A.A.R** (also known as **XanderID**) a passionate sof
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/XanderID">
-    <img src="https://github-readme-stats.vercel.app/api?username=XanderID&show_icons=true&theme=github_dark_dimmed" alt="XanderID's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=XanderID&show_icons=true&theme=github_dark_dimmed&cache_seconds=1800" alt="XanderID's GitHub Stats" />
   </a>
   <a href="https://github.com/XanderID">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanderID&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanderID&layout=compact&theme=github_dark_dimmed&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 
